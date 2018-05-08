@@ -7,3 +7,6 @@
 [submodule "thermodynamics"]
 	path = thermodynamics
 	url = https://github.com/HarshuCogSci/thermodynamics
+[submodule "mohr-circle"]
+	path = mohr-circle
+	url = https://github.com/HarshuCogSci/mohr-circle
