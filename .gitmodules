@@ -10,3 +10,6 @@
 [submodule "mohr-circle"]
 	path = mohr-circle
 	url = https://github.com/HarshuCogSci/mohr-circle
+[submodule "explorables"]
+	path = explorables
+	url = https://github.com/HarshuCogSci/explorables
