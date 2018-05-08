@@ -4,3 +4,6 @@
 [submodule "visualizing-fourier"]
 	path = visualizing-fourier
 	url = https://github.com/HarshuCogSci/visualizing-fourier
+[submodule "thermodynamics"]
+	path = thermodynamics
+	url = https://github.com/HarshuCogSci/thermodynamics
