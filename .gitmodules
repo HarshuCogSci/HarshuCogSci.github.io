@@ -13,3 +13,6 @@
 [submodule "explorables"]
 	path = explorables
 	url = https://github.com/HarshuCogSci/explorables
+[submodule "dynamic_algebra"]
+	path = dynamic_algebra
+	url = https://github.com/HarshuCogSci/dynamic_algebra
