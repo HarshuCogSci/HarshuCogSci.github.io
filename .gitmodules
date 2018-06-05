@@ -16,3 +16,6 @@
 [submodule "dynamic_algebra"]
 	path = dynamic_algebra
 	url = https://github.com/HarshuCogSci/dynamic_algebra
+[submodule "non-linear-dynamics"]
+	path = non-linear-dynamics
+	url = https://github.com/HarshuCogSci/non-linear-dynamics
