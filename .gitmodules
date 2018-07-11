@@ -19,3 +19,6 @@
 [submodule "non-linear-dynamics"]
 	path = non-linear-dynamics
 	url = https://github.com/HarshuCogSci/non-linear-dynamics
+[submodule "chess-with-help"]
+	path = chess-with-help
+	url = https://github.com/HarshuCogSci/chess-with-help
