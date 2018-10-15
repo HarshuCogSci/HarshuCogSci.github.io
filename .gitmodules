@@ -28,3 +28,6 @@
 [submodule "buffons-needle"]
 	path = buffons-needle
 	url = git@github.com:HarshuCogSci/buffons-needle.git
+[submodule "Dynamic-root-locus"]
+	path = Dynamic-root-locus
+	url = git@github.com:HarshuCogSci/Dynamic-root-locus.git
