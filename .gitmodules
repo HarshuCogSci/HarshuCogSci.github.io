@@ -25,3 +25,6 @@
 [submodule "buffons-needle-experiment"]
 	path = buffons-needle-experiment
 	url = https://github.com/Rishabh-D/buffons-needle-experiment
+[submodule "buffons-needle"]
+	path = buffons-needle
+	url = git@github.com:HarshuCogSci/buffons-needle.git
