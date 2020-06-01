@@ -22,12 +22,3 @@
 [submodule "chess-with-help"]
 	path = chess-with-help
 	url = https://github.com/HarshuCogSci/chess-with-help
-[submodule "buffons-needle-experiment"]
-	path = buffons-needle-experiment
-	url = https://github.com/Rishabh-D/buffons-needle-experiment
-[submodule "buffons-needle"]
-	path = buffons-needle
-	url = https://github.com/HarshuCogSci/buffons-needle
-[submodule "Dynamic-root-locus"]
-	path = Dynamic-root-locus
-	url = https://github.com/HarshuCogSci/Dynamic-root-locus
